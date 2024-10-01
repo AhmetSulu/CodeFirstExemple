@@ -29,6 +29,3 @@ This project demonstrates a **Code First** approach using **ASP.NET Core 6** and
 
 4. Start the app:  
    `dotnet run`
-
-## License
-This project is licensed under the MIT License.
