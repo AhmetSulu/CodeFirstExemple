@@ -14,12 +14,12 @@ This project demonstrates a **Code First** approach using **ASP.NET Core 6** and
 ## Getting Started
 
 ### Prerequisites
-- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [SQL Server or LocalDB](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-2019-setup?view=sql-server-ver15)
 
 ### Installation
 1. Clone the repo:  
-   `git clone https://github.com/your-username/PatikaCodeFirstDb1.git`
+   `https://github.com/AhmetSulu/CodeFirstExemple.git`
 
 2. Update `appsettings.json` with your SQL Server connection.
 
